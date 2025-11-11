@@ -1,3 +1,6 @@
+[![CI](https://github.com/Shakour-Data/01-common-library/actions/workflows/ci.yml/badge.svg)](https://github.com/Shakour-Data/01-common-library/actions/workflows/ci.yml)
+[![CD](https://github.com/Shakour-Data/01-common-library/actions/workflows/cd.yml/badge.svg)](https://github.com/Shakour-Data/01-common-library/actions/workflows/cd.yml)
+
 <!--
 ================================================================================
 FILE IDENTITY
@@ -650,3 +653,4 @@ MIT License - See [LICENSE](LICENSE) file
 **Last Updated:** 2025-11-07  
 **Version:** 1.0.0  
 **Maintainer:** Dr. Sarah Chen (Chief Architect)
+
